@@ -1,87 +1,62 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Na Tang's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Na Tang
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="tan22016@byui.edu">tan22016@byui.edu</a>
+| <a href="https://www.linkedin.com/in/na-tang/">My linkedin page</a>
 </div>
 
 
-## Currently
+## EDUCATION
 
-Standing on the shoulders of giants
+Brigham Young University–Idaho  Jan. 2023 – Present
+Bachelor of Science in Computer Science  GPA: 4.0/4.0
 
-### Specialized in
+### RELATE COURSE
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Programming with Functions (Python), Introduction to Computer Science, Algorithmic Thinking, Computer Systems, Web Fundamentals (HTML, CSS), Database, Data Structures
 
 
-## Education
+### SKILLS
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+Python, HTML, CSS, MongoDB, MySQL, FastAPI, Git, LaTeX
 
 
+## PROJECTS
+
+### LXA Apr. 2023 – Present Tech Stack: API, MongoDB
+* Developing and deploying a web application using FastAPI to leverage Python’s versatility for API development.
+* Implementing essential CRUD operations to enhance the application’s capabilities and user interaction.
+* Utilizing MongoDB for optimizing data storage and management.
+
+### Interactive Portfolio Hub GitHub Apr. 2023 – Jul. 2023 Tech Stack: HTML, CSS, JavaScript
+
+* Created an enchanting and interactive website catering to young explorers, providing a platform to showcase pictures and share stories.
+* Enhanced Frontend Skills: Strengthened proficiency in HTML, CSS, and JavaScript through project implementation.
+* Overcame layout optimization challenges for a responsive design and successfully implemented a dy- namic slideshow, showcasing adaptability and problem-solving skills.
+
+### Games list Jan. 2023 – Apr. 2023 Tech Stack: Python, Turtle library, Tkinter library, requests library, PIL library, Pytest
+
+* Completed a Python project with Word Guessing, Adventure Game, and Weather Tool.
+* Developed comprehensive testing cases covering various functional aspects of the project to ensure
+stability and reliability.
+* Overcame challenges in API usage, learned game design principles, and enhanced the overall experience
+by improving API interactions and mastering Python syntax.
+
+
+## WORK EXPERIENCE
+
+### Brigham Young University–Idaho Tutoring Center Sep. 2023 – Present
+#### Tutor: Programming with Functions and Web Fundamentals
+
+* Guided and mentored a weekly cohort of 15+ students, nurturing a strong grasp of programming fundamentals and equipping them with practical problem-solving skills in Python, HTML, and CSS, while introducing valuable tools and techniques.
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+Awarded the BYU-Idaho Grant for the academic year 2023-2024.
 
 
 <!-- ### Footer

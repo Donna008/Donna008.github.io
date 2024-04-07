@@ -149,9 +149,9 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Isaac Newtons’s CV",
+    "title": "Na Tang’s CV",
     "section": "",
-    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "tan22016@byui.edu | My wikipedia page\n\n\n\nBrigham Young University–Idaho Jan. 2023 – Present Bachelor of Science in Computer Science GPA: 4.0/4.0\n\n\nProgramming with Functions (Python), Introduction to Computer Science, Algorithmic Thinking, Computer Systems, Web Fundamentals (HTML, CSS), Database, Data Structures\n\n\n\nPython, HTML, CSS, MongoDB, MySQL, FastAPI, Git, LaTeX\n\n\n\n\n\n\n\nDeveloping and deploying a web application using FastAPI to leverage Python’s versatility for API development.\nImplementing essential CRUD operations to enhance the application’s capabilities and user interaction.\nUtilizing MongoDB for optimizing data storage and management.\n\n\n\n\n\nCreated an enchanting and interactive website catering to young explorers, providing a platform to showcase pictures and share stories.\nEnhanced Frontend Skills: Strengthened proficiency in HTML, CSS, and JavaScript through project implementation.\nOvercame layout optimization challenges for a responsive design and successfully implemented a dy- namic slideshow, showcasing adaptability and problem-solving skills.\n\n\n\n\n\nCompleted a Python project with Word Guessing, Adventure Game, and Weather Tool.\nDeveloped comprehensive testing cases covering various functional aspects of the project to ensure stability and reliability.\nOvercame challenges in API usage, learned game design principles, and enhanced the overall experience by improving API interactions and mastering Python syntax.\n\n\n\n\n\n\n\n\n\n\nGuided and mentored a weekly cohort of 15+ students, nurturing a strong grasp of programming fundamentals and equipping them with practical problem-solving skills in Python, HTML, and CSS, while introducing valuable tools and techniques.\n\n\n\n\n\n\nAwarded the BYU-Idaho Grant for the academic year 2023-2024."
   },
   {
     "objectID": "resume.html#currently",
@@ -163,16 +163,16 @@
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
-    "title": "Isaac Newtons’s CV",
+    "title": "Na Tang’s CV",
     "section": "",
-    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
+    "text": "Brigham Young University–Idaho Jan. 2023 – Present Bachelor of Science in Computer Science GPA: 4.0/4.0\n\n\nProgramming with Functions (Python), Introduction to Computer Science, Algorithmic Thinking, Computer Systems, Web Fundamentals (HTML, CSS), Database, Data Structures\n\n\n\nPython, HTML, CSS, MongoDB, MySQL, FastAPI, Git, LaTeX"
   },
   {
     "objectID": "resume.html#awards",
     "href": "resume.html#awards",
-    "title": "Isaac Newtons’s CV",
+    "title": "Na Tang’s CV",
     "section": "",
-    "text": "2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France"
+    "text": "Awarded the BYU-Idaho Grant for the academic year 2023-2024."
   },
   {
     "objectID": "resume.html#publications",
@@ -376,5 +376,19 @@
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "resume.html#projects",
+    "href": "resume.html#projects",
+    "title": "Na Tang’s CV",
+    "section": "",
+    "text": "Developing and deploying a web application using FastAPI to leverage Python’s versatility for API development.\nImplementing essential CRUD operations to enhance the application’s capabilities and user interaction.\nUtilizing MongoDB for optimizing data storage and management.\n\n\n\n\n\nCreated an enchanting and interactive website catering to young explorers, providing a platform to showcase pictures and share stories.\nEnhanced Frontend Skills: Strengthened proficiency in HTML, CSS, and JavaScript through project implementation.\nOvercame layout optimization challenges for a responsive design and successfully implemented a dy- namic slideshow, showcasing adaptability and problem-solving skills.\n\n\n\n\n\nCompleted a Python project with Word Guessing, Adventure Game, and Weather Tool.\nDeveloped comprehensive testing cases covering various functional aspects of the project to ensure stability and reliability.\nOvercame challenges in API usage, learned game design principles, and enhanced the overall experience by improving API interactions and mastering Python syntax."
+  },
+  {
+    "objectID": "resume.html#work-experience",
+    "href": "resume.html#work-experience",
+    "title": "Na Tang’s CV",
+    "section": "",
+    "text": "Guided and mentored a weekly cohort of 15+ students, nurturing a strong grasp of programming fundamentals and equipping them with practical problem-solving skills in Python, HTML, and CSS, while introducing valuable tools and techniques."
   }
 ]
